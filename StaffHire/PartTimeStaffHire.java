@@ -1,0 +1,3 @@
+class PartTimeStaffHire extends StaffHire
+
+

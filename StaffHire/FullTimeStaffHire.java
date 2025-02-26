@@ -1,0 +1,4 @@
+ class FullTimeStaffHire extends StaffHire{
+    
+}
+
